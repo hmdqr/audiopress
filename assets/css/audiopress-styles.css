@@ -1,0 +1,41 @@
+/* Styles for the audio submission form */
+.audiopress-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.audiopress-form input[type="text"],
+.audiopress-form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.audiopress-form textarea {
+    height: 150px;
+}
+
+.audiopress-form input[type="submit"] {
+    display: block;
+    margin-top: 20px;
+}
+
+/* Styles for the audio post display */
+.audio-post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.audio-title {
+    margin-top: 0;
+}
+
+.audio-thumbnail {
+    float: left;
+    margin-right: 20px;
+}
+
+.audio-description {
+    margin-top: 10px;
+}
